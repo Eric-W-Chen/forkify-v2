@@ -73,6 +73,7 @@ The optimized and minified files will be available in the dist/ directory, ready
 - **HTML5 & CSS3**: For structuring and styling the web pages.
 - **Babel**: Used to transpile modern JavaScript to ensure compatibility across browsers.
 - **Forkify API**: The application fetches recipe data from an external Forkify API.
+- **Netlify**: Deployment platform for hosting the application.
 
 ## Project Structure
 
