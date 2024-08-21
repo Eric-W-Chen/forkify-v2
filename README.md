@@ -27,18 +27,19 @@ You can check out the live demo of the project here.
 
 To run this project locally, follow these steps:
 
-1. **Clone the repository**:
+1.  **Clone the repository**:
 
-   ```bash
-   git clone https://github.com/your-username/forkify.git
+    ```bash
+    git clone https://github.com/your-username/forkify.git
 
-   ```
+    ```
 
-2. **Navigate to the project directory**:
+2.  **Navigate to the project directory**:
 
-```bash
-cd forkify
-```
+    ```bash
+    cd forkify
+
+    ```
 
 Install dependencies:
 This project uses Node.js and npm for dependency management. Make sure you have Node.js installed on your machine, then run:
@@ -67,28 +68,31 @@ The optimized and minified files will be available in the dist/ directory, ready
 
 ## Technologies Used
 
-**JavaScript (ES6+)**: The primary language used for developing the application.
-**Parcel**: A fast, zero-configuration web application bundler.
-**HTML5 & CSS3**: For structuring and styling the web pages.
-**Babel**: Used to transpile modern JavaScript to ensure compatibility across browsers.
-**Forkify API**: The application fetches recipe data from an external Forkify API.
+- **JavaScript (ES6+)**: The primary language used for developing the application.
+- **Parcel**: A fast, zero-configuration web application bundler.
+- **HTML5 & CSS3**: For structuring and styling the web pages.
+- **Babel**: Used to transpile modern JavaScript to ensure compatibility across browsers.
+- **Forkify API**: The application fetches recipe data from an external Forkify API.
 
 ## Project Structure
 
-├── dist/ # Production build
-├── src/ # Source files
-│ ├── css/ # CSS styles
-│ ├── img/ # Images and icons
-│ ├── js/ # JavaScript files
-│ │ ├── model.js # Handles application data
-│ │ ├── views/ # View classes for UI components
-│ │ ├── controller.js # Handles application logic
-│ ├── index.html # Main HTML file
-│ ├── index.js # Entry point of the application
-├── .babelrc # Babel configuration
-├── .gitignore # Files and directories to be ignored by Git
-├── package.json # Node.js dependencies and scripts
-└── README.md # Project documentation (this file)
+```plaintext
+├── dist/               # Production build
+├── src/                # Source files
+│   ├── css/            # CSS styles
+│   ├── img/            # Images and icons
+│   ├── js/             # JavaScript files
+│   │   ├── model.js    # Handles application data
+│   │   ├── views/      # View classes for UI components
+│   │   └── controller.js # Handles application logic
+│   ├── index.html      # Main HTML file
+│   └── index.js        # Entry point of the application
+├── .babelrc            # Babel configuration
+├── .gitignore          # Files and directories to be ignored by Git
+├── package.json        # Node.js dependencies and scripts
+└── README.md           # Project documentation (this file)
+
+```
 
 ```
 
