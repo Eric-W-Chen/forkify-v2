@@ -1,4 +1,4 @@
-Forkify Project
+# Forkify Project
 
 Forkify is a web application that allows users to search for recipes, view recipe details, and save their favorite recipes. This project was inspired by Jonas Schmedtmann's JavaScript course, and it demonstrates the application of modern JavaScript, ES6+, and other web development best practices.
 
@@ -91,9 +91,4 @@ The optimized and minified files will be available in the dist/ directory, ready
 ├── .gitignore          # Files and directories to be ignored by Git
 ├── package.json        # Node.js dependencies and scripts
 └── README.md           # Project documentation (this file)
-
-```
-
-```
-
 ```
