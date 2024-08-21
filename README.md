@@ -1,4 +1,4 @@
-# Forkify Project
+# Forkify
 
 Forkify is a web application that allows users to search for recipes, view recipe details, and save their favorite recipes. This project was inspired by Jonas Schmedtmann's JavaScript course, and it demonstrates the application of modern JavaScript, ES6+, and other web development best practices.
 
@@ -21,7 +21,7 @@ Upload and add your own custom recipes.
 
 ## Live Demo
 
-You can check out the live demo of the project here.
+You can check out the live demo of the project [here](https://eric-forkify-v2.netlify.app/).
 
 ## Installation
 
@@ -30,14 +30,14 @@ To run this project locally, follow these steps:
 1.  **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-username/forkify.git
+    git clone https://github.com/eric-w-chen/forkify-v2.git
 
     ```
 
 2.  **Navigate to the project directory**:
 
     ```bash
-    cd forkify
+    cd forkify-v2
 
     ```
 
@@ -69,10 +69,12 @@ The optimized and minified files will be available in the dist/ directory, ready
 ## Technologies Used
 
 - **JavaScript (ES6+)**: The primary language used for developing the application.
+- **HTML5**: For semantic and accessible markup.
+- **CSS3**: For advanced styling, including Flexbox, Grid, and custom animations.
 - **Parcel**: A fast, zero-configuration web application bundler.
-- **HTML5 & CSS3**: For structuring and styling the web pages.
 - **Babel**: Used to transpile modern JavaScript to ensure compatibility across browsers.
 - **Forkify API**: The application fetches recipe data from an external Forkify API.
+- **Git**: For version control and collaboration.
 - **Netlify**: Deployment platform for hosting the application.
 
 ## Project Structure
