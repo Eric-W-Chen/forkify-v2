@@ -71,6 +71,7 @@ The optimized and minified files will be available in the dist/ directory, ready
 - **JavaScript (ES6+)**: The primary language used for developing the application.
 - **HTML5**: For semantic and accessible markup.
 - **CSS3**: For advanced styling, including Flexbox, Grid, and custom animations.
+- **SASS/SCSS**: CSS preprocessor for writing modular and maintainable stylesheets.
 - **Parcel**: A fast, zero-configuration web application bundler.
 - **Babel**: Used to transpile modern JavaScript to ensure compatibility across browsers.
 - **Forkify API**: The application fetches recipe data from an external Forkify API.
